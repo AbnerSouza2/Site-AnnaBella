@@ -1,0 +1,57 @@
+body{
+    background: #d2d2c1  url('imagens anabela/fundo.png');
+    font: 16px arial, helvetica, sans-serif;
+   
+}
+
+#principal {
+    margin-left: 500px;
+
+}
+
+#menu{
+    background: #c5c5b2;
+    padding: 18px;
+    width: 865px;
+}
+
+#direitos{
+   margin-left: 500px;
+   margin-right: 500px;
+    
+}
+
+h1{
+    
+    color: #828271;
+    font-size: 1.2em;
+}
+
+h4{
+    text-align: center;
+}
+
+#conteudo{
+    
+    background: #e8e8d9;
+    padding: 10px;
+    width: 882px;
+
+}
+
+.img-campanha{
+    border: 10px solid #c3c3ae
+
+}
+
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#contato{
+    margin-top: 10px;
+    padding: 8px;
+}
